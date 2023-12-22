@@ -13,3 +13,6 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/RupeshKhadka69/personalportfolio.git
    cd your-portfolio
+2. Install the dependencies:
+   ```bash
+   yarn install
