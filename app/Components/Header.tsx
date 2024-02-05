@@ -16,7 +16,7 @@ import ThemeSwitch from './ThemeSwitch';
       <div className="container mx-auto ">
         <header className='flex items-center justify-between px-4 py-4 md:py-6 text-slate-800 dark:text-white'>
           <h1 className="logo text-lg font-bold">Rupesh.Dev</h1>
-          <nav className=''>
+          <nav className='flex items-center gap-4'>
             <ul className='hidden  md:flex gap-4 font-semibold '>
               <li><a href="Home">Home</a></li>
               <li><a href="About">About</a></li>
