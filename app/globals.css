@@ -25,3 +25,26 @@
         border-radius: 60% 40% 30% 70%/60% 30% 70% 40%;
     }
 }
+
+.pp::before {
+    content: " ";
+    width: 92px;
+    height: 70px;
+    opacity: 1;
+    background: red;
+    border-top-left-radius: 8px;
+    transition: all .3s ease-in-out;
+    position: absolute;
+    top: -2px;
+    bottom: 0;
+    left: -2px;
+    z-index: -1;
+}
+.ull{
+    z-index: 3;
+   
+    border-top-left-radius: 7px;
+    margin-left: 0;
+    padding: 15px 25px ;
+
+}
